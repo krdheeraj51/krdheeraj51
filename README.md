@@ -23,11 +23,11 @@ I am a fullstack software engineer from India
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithm Digest #2](https://www.krdheeraj.info/algorithm-digest-2/)
 - [Algorithm Digest #1](https://www.krdheeraj.info/algorithm-digest-1/)
 - [useRef hook in reactjs](https://www.krdheeraj.info/useref-hook-in-reactjs/)
 - [Create Counter application in React](https://www.krdheeraj.info/create-counter-application-in-react/)
 - [Introduction to Redux](https://www.krdheeraj.info/introduction-to-redux/)
-- [Implementation of Videojs in your React application](https://www.krdheeraj.info/implementation-of-videojs-in-your-react-application/)
 <!-- BLOG-POST-LIST:END -->
 
 
