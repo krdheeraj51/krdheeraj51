@@ -31,7 +31,8 @@ Let’s collaborate or chat about tech, development, or exciting new ideas!
 - **React Redux Starter Kit**: A boilerplate for React and Redux projects with modern tools.
 
 ## 📝 Recent Blog Posts
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Achievements & Certifications
 - Google Cloud Platform: Generative AI with Vertex AI.
