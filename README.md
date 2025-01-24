@@ -32,6 +32,11 @@ Let’s collaborate or chat about tech, development, or exciting new ideas!
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering AI Conversations: 5 Proven Prompt Patterns to Supercharge Your Chatbot Interactions](https://thetechticker.in/mastering-ai-conversations-5-proven-prompt-patterns-to-supercharge-your-chatbot-interactions/)
+- [Top 10 AI Tools for Enhanced Productivity](https://thetechticker.in/top-10-ai-tools-for-enhanced-productivity/)
+- [Understanding Generative AI: Transforming Creativity and Efficiency in the Digital Age](https://thetechticker.in/understanding-generative-ai-transforming-creativity-and-efficiency-in-the-digital-age/)
+- [Unleashing the Power of Data Visualization with Power BI](https://thetechticker.in/unleashing-the-power-of-data-visualization-with-power-bi/)
+- [Implementation of Cache in Express API](https://thetechticker.in/implementation-of-cache-in-express-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Achievements & Certifications
